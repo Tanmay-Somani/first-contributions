@@ -82,7 +82,6 @@
 - [Rishabh Gist](https://github.com/rishabhgist)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [devzohaib](https://github.com/devzohaib)
-- [Tanmay Bhujade](https://github.com/Tanmaybhujade)
 - [Ehmad Saeed](https://github.com/ehmadsaeed)
 - [BrenBermudez] (https://github.com/BrendaBermudez)
 - [Alex Buser](https://github.com/Albuser)
