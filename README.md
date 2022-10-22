@@ -103,7 +103,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+For exampl:
 
 ```
 git clone https://github.com/this-is-you/first-contributions.git
